@@ -30,3 +30,4 @@ Although the Boruta package provides us with the sense of the variable importanc
 | ----------| -----| -----| -----| -----|
 | Training  | 32.83 | 0.92 | 16.06 | 16.36 |
 | Testing   | 81.52  | 0.38 | 40.3 | 40.00 |
+
