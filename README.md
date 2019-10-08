@@ -18,3 +18,15 @@ Although the Boruta package provides us with the sense of the variable importanc
 | ----------| -----| -----| -----| -----|
 | Training  | 93.21  | 0.18 | 53.13 | 61.32 |
 | Testing   | 93.18  | 0.16 | 51.97 | 59.93 |
+
+## Support Vector Machine
+|     SVM    | RMSE | R^2 | MAE | MAPE(%) |
+| ----------| -----| -----| -----| -----|
+| Training  | 48.98  | 0.76 | 17.85 | 16.45 |
+| Testing   | 82.82  | 0.36 | 37.92 | 35.82 |
+
+## Random Forest
+|     Rf    | RMSE | R^2 | MAE | MAPE(%) |
+| ----------| -----| -----| -----| -----|
+| Training  | 32.83 | 0.92 | 16.06 | 16.36 |
+| Testing   | 81.52  | 0.38 | 40.3 | 40.00 |
